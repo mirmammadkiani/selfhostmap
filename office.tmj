@@ -1731,8 +1731,8 @@
                  "type":"area",
                  "visible":true,
                  "width":192,
-                 "x":928,
-                 "y":384
+                 "x":892,
+                 "y":196
                 }, 
                 {
                  "height":39.6969696969697,
@@ -1746,7 +1746,7 @@
                  "y":256.333333333333
                 }, 
                 {
-                 "height":64,
+                 "height":42.6666666666667,
                  "id":18,
                  "name":"to-conference",
                  "properties":[
@@ -1758,9 +1758,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":32,
-                 "x":163,
-                 "y":662.5
+                 "width":103.333333333333,
+                 "x":60,
+                 "y":451.166666666667
                 }, 
                 {
                  "height":32,
@@ -1776,12 +1776,12 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":227.5,
-                 "y":690.5
+                 "x":94.8333333333333,
+                 "y":519.5
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
